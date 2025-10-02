@@ -17,11 +17,11 @@ Notes:
 - PDF resume parsing uses pdfjs (in-browser).
 - The app stores state in `localStorage` under `crisp_unique_v1`.
 - This prototype uses a rule-based question bank and scoring to avoid external APIs.
-  ## 🚀 Live Demo
+  ##  Live Demo
 Check out the running app here:  
-👉 [Interview Assistant on Vercel](https://interview-assistant-sepia.vercel.app)
+ [Interview Assistant on Vercel](https://interview-assistant-sepia.vercel.app)
 
-## 🎥 Demo Video
+##  Demo Video
 Watch the demo video here:  
-👉 [Demo Video Link]https://drive.google.com/file/d/1iDA_daIk1K0rGIuGszRwkdG_aTOiPsVz/view?usp=sharing)  
+[Demo Video Link]https://drive.google.com/file/d/1iDA_daIk1K0rGIuGszRwkdG_aTOiPsVz/view?usp=sharing)  
 
